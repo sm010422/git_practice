@@ -4,3 +4,6 @@ print("this is practice_git2 and git commit test3")
 print("practice git commmit test4")
 
 print("this is practice the git restore --source commit hash , file ")
+
+
+print("now i will remove this commit")
