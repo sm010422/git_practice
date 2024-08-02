@@ -7,3 +7,5 @@ and this is one more commit clone version
 this is clone version2 and we will do fetch and merge
 ###commit one more
 one more commit
+
+git merge test1
