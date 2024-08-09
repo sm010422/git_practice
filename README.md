@@ -10,3 +10,32 @@ one more commit
 
 git merge test1
 this is keychain test
+
+# text 
+## text
+### text
+#### text
+##### text
+###### text
+
+**thick pont**
+
+*other pont*
+
+[youtube](https://www.youtube.com/watch?v=CxhQGNKnv1g)
+
+
+  * this is markdown language practice
+  * unordered list 
+    * underordered list
+---
+
+
+1. this is number test
+2. two
+
+---
+
+and this is makr down language
+
+---
